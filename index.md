@@ -9,3 +9,8 @@ Added a test header
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+# Bradleys Task List
+- [ ] Figure out Sisters Birthday plan
+- [x] Clean hat
+- [ ] Check for package
